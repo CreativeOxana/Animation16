@@ -12,8 +12,8 @@ body {
 }
 
 .obj {
-  width: 6px;
-  height: 120px;
+  width: 18px;
+  height: 40px;
   background-color: rgb(69, 226, 79);
   margin: 0 3px;
   border-radius: 10px;
